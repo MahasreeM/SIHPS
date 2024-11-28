@@ -107,7 +107,8 @@ This platform will not only serve as a bridge between alumni and their alma mate
 ![Screenshot (43)](https://github.com/user-attachments/assets/6b023a8d-1603-4472-8a1f-45fca4cf7547)
 
 ## Use Cases
-![Screenshot (44)](https://github.com/user-attachments/assets/ca2eb180-132d-4973-b39e-842b33cba1f8)
+![Screenshot (44)](https://github.com/user-attachments/assets/454c431c-67ba-432c-81b0-6e42a7ef941e)
+
 
 
 
